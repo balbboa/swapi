@@ -1,4 +1,3 @@
-## 0 
 # Tools
 
 React + Next.js + sass
